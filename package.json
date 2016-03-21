@@ -1,0 +1,17 @@
+{
+  "name": "@scola/assign",
+  "version": "0.0.0",
+  "description": "Deep object assign",
+  "keywords": [
+    "object",
+    "assign",
+    "deep"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scola84/node-assign"
+  },
+  "author": "M.C. van den Boogaart <scola@kvdb.name>",
+  "license": "MIT",
+  "main": "index.js"
+}
