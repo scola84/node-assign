@@ -1,6 +1,6 @@
 {
   "name": "@scola/assign",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Deep object assign",
   "keywords": [
     "object",
